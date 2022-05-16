@@ -1,5 +1,6 @@
 # Infographics
-This is an infographic that i created on the dataset from kaggle containing the online food delivery services data
+This is an infographic that I created on the dataset from kaggle containing the online food delivery services data.
+source for dataset:https://www.kaggle.com/benroshan/online-food-delivery-preferencesbangalore-region
 In order to view the pdf properly download it and then view locally on computer since it is not rendered properly in github
 
 
